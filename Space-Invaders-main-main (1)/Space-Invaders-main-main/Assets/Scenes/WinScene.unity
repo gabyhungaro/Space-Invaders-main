@@ -376,7 +376,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_fontColor: {r: 0, g: 1, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -727,7 +727,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You Win!!!
+  m_text:  WINNER
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 636ed0118101f3a4083142324ab2d0cb, type: 2}
   m_sharedMaterial: {fileID: -3279723977697345100, guid: 636ed0118101f3a4083142324ab2d0cb, type: 2}
@@ -737,7 +737,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColor: {r: 0, g: 1, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -754,7 +754,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
+  m_fontSize:36
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 0
